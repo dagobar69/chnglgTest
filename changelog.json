@@ -1,0 +1,5 @@
+{
+ "toRef": "refs/heads/master",
+ "ignoreCommitsIfMessageMatches": "^(?!\\[CL\\]).*",
+ "dateFormat": "dd/MM/YYYY"
+}
