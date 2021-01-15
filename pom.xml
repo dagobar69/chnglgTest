@@ -575,10 +575,10 @@
 					<version>2.5.3</version>
 					<configuration>
           <tagBase>
-            file:///file:///C:/Users/Utente/Desktop/wrk/Exprivia/prjs/InPas/anomalie/20210111_changheLog/dev/chnglgTest
+            file:///file:///C:/Users/Utente/Desktop/wrk/Exprivia/prjs/InPas/anomalie/20210111_changheLog/dev/tagBase
           </tagBase>
 						<tagNameFormat>v@{project.version}</tagNameFormat>
-						<autoVersionSubmodules>true</autoVersionSubmodules>
+						<autoVersionSubmodules>true</autoVersionSubmodules>						
 <!-- 						<preparationGoals>-Pprod test se.bjurr.gitchangelog:git-changelog-maven-plugin:git-changelog git-changelog:git-changelog scm:checkin</preparationGoals>  -->
 						<preparationGoals> se.bjurr.gitchangelog:git-changelog-maven-plugin:git-changelog git-changelog:git-changelog</preparationGoals>
 					</configuration>
