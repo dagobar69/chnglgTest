@@ -15,7 +15,9 @@
     <version>0.1.0-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git:file:///file:///C:/Users/Utente/Desktop/wrk/Exprivia/prjs/InPas/anomalie/20210111_changheLog/dev/chnglgTest</developerConnection>
+        <developerConnection>scm:git:file:///C:/Users/Utente/Desktop/wrk/Exprivia/prjs/InPas/anomalie/20210111_changheLog/dev/chnglgTest</developerConnection>
+        <url>file:///C:/Users/Utente/Desktop/wrk/Exprivia/prjs/InPas/anomalie/20210111_changheLog/dev/chnglgTest</url>
+        <tag>chnglgTest</tag>
 <!--  
         <connection>scm:git:git@github.com</connection>
         <tag>chnglgTest</tag>
