@@ -606,9 +606,6 @@
                                         <versionRange>${frontend-maven-plugin.version}</versionRange>
                                         <goals>
                                             <goal>install-node-and-yarn</goal>
-                                            <goal>yarn</goal>
-                                            <goal>bower</goal>
-                                            <goal>gulp</goal>
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
