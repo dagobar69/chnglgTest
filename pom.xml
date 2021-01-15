@@ -9,16 +9,16 @@
         <relativePath />
     </parent>
 
-    <groupId>org.springframework</groupId>
-    <artifactId>gs-maven</artifactId>
+    <groupId>sc.work.test</groupId>
+    <artifactId>chnglgTest</artifactId>
     <packaging>jar</packaging>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:git@localhost:PORTALE_SUPERVISIONE_GUI/lavori-programmati-gui.git</connection>
-        <developerConnection>scm:git:git@localhost:PORTALE_SUPERVISIONE_GUI/lavori-programmati-gui.git</developerConnection>
-        <tag>TestCnghlg</tag>
-        <url>https://scm.code.telecomitalia.it/PORTALE_SUPERVISIONE_GUI/lavori-programmati-gui</url>
+        <connection>scm:git:git@github.com</connection>
+        <developerConnection>scm:git:git@github.com</developerConnection>
+        <tag>chnglgTest</tag>
+        <url>https://github.com/dagobar69/chnglgTest</url>
     </scm>
 
 
